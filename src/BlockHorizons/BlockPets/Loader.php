@@ -89,7 +89,7 @@ use spoondetector\SpoonDetector;
 class Loader extends PluginBase {
 
 	const VERSION = "1.1.0";
-	const API_TARGET = "3.0.0-ALPHA7";
+	const API_TARGET = "3.0.0-ALPHA10";
 
 	const PETS = [
 		"Ghast",
